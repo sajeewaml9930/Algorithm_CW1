@@ -184,7 +184,7 @@ public class GraphWeighted {
 
                 }
                 System.out.println(path);
-                System.out.println("\nTotal Journey Time: " + shortestPathMap.get(end)+ " minutes");
+                System.out.println("\nTotal Journey Time: " + shortestPathMap.get(end) + " minutes" );
                 System.out.println("\n ");
                 return;
             }

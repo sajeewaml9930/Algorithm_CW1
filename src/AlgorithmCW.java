@@ -3,8 +3,6 @@ import java.util.Set;
 
 public class AlgorithmCW {
         private static Set<NodeWeighted> nodes;
-
-
         private static boolean shouldSkipLoad;
         private final static Scanner inputReader = new Scanner(System.in);
 
