@@ -8,8 +8,7 @@ public class AlgorithmCW {
 
 
     public static void main(String[] args) throws Exception {
-        GUI.gui();
-            /*System.out.println("\nSajeewa's Algorithm Coursework\n");
+            System.out.println("\nSajeewa's Algorithm Coursework\n");
 
             while (true) {
                 shouldSkipLoad = false;
@@ -35,7 +34,7 @@ public class AlgorithmCW {
                         System.out.println("Invalid choice");
                         break;
                 }
-            }*/
+            }
 
 
         }
